@@ -29,7 +29,7 @@ Estudante de **Ciência da Computação** se aventurando no universo dos dados. 
 
 > *EDA detalhada sobre dados clínicos para identificar padrões demográficos e médicos associados ao risco de ataques cardíacos — com foco em proporções, correlações estatísticas e vieses de amostra.*
 
-Esse projeto foi além das contagens óbvias: após limpeza e padronização dos dados, realizei análise bivariada cruzando sintomas e exames com o diagnóstico de risco, além de matriz de correlação com heatmap para investigar relações entre sinais vitais.
+Após limpeza e padronização dos dados, realizei análise bivariada cruzando sintomas e exames com o diagnóstico de risco, além de matriz de correlação com heatmap para investigar relações entre sinais vitais.
 
 **💡 Insights:**
 - 🃏 **O paradoxo da dor no peito:** a angina *típica* apresentou menor proporção de risco do que a atípica.
