@@ -37,14 +37,19 @@ Estudante de **Ciência da Computação** se aventurando no universo dos dados. 
 
 ---
 
-### 🔮 [Nome do Projeto 2](https://github.com/LarissaCns/projeto-2)
+<img src="grafico_citrus.png" alt="Grafico de Regressão" width="300" align="left"/>
 
-> *Breve frase de impacto descrevendo o objetivo do projeto.*
-
-Descreva aqui o que o projeto faz, qual problema resolve e quais técnicas você utilizou.
-
-![SQL](https://img.shields.io/badge/SQL-8A2BE2?style=flat-square&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-6A0DAD?style=flat-square&logo=powerbi&logoColor=white)
+### 🍊 [Citrus Data Analysis](https://github.com/LarissaCns/Numpy-Citrus)
+ 
+> *Análise da relação entre diâmetro e peso de frutas cítricas (laranjas e toranjas) com regressão linear.*
+ 
+Projeto focado na aplicação prática de NumPy para análise de dados de frutas cítricas. A partir de um dataset com medidas físicas das frutas, foi investigada a relação entre diâmetro e peso, com os resultados plotados em gráfico de regressão linear.
+ 
+![Python](https://img.shields.io/badge/Python-7B2FBE?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-8A2BE2?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-6A0DAD?style=flat-square&logoColor=white)
+ 
+---
 
 ---
 
