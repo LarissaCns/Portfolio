@@ -63,6 +63,7 @@ Projeto focado na aplicação prática de NumPy para análise de dados de frutas
 ![Flask](https://img.shields.io/badge/Flask-6A0DAD?style=flat-square&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-9B30FF?style=flat-square&logo=postgresql&logoColor=white)
 </br>
+</br>
 
 ---
 
