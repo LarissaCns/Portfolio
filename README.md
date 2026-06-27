@@ -67,6 +67,23 @@ Projeto focado na aplicação prática de NumPy para análise de dados de frutas
 
 ---
 
+<img src="dataset-cover.png" alt="Grafico de Regressão" width="300" align="left"/>
+
+### 🛒 [Análise Estratégica de Expansão e Vendas — Olist](https://github.com/LarissaCns/Analise-Olist-Ecommerce)
+ 
+> *Análise do comportamento de compras do e-commerce brasileiro (Olist) cruzada com dados demográficos do IBGE para identificar oportunidades de expansão e os maiores potenciais de investimento em marketing.*
+ 
+O projeto responde perguntas de negócio reais: onde estão concentrados os clientes atuais, quais são os gargalos de qualidade nos dados de localização e — o mais estratégico — quais cidades e regiões do Brasil representam as maiores oportunidades ainda inexploradas.
+ 
+![Python](https://img.shields.io/badge/Python-7B2FBE?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=flat-square&logo=pandas&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-6A0DAD?style=flat-square&logo=duckdb&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-9B30FF?style=flat-square&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-7B2FBE?style=flat-square&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-8A2BE2?style=flat-square&logo=plotly&logoColor=white)
+ 
+---
+
 </br>
 </br>
 
@@ -84,6 +101,9 @@ Projeto focado na aplicação prática de NumPy para análise de dados de frutas
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-7B2FBE?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-8A2BE2?style=for-the-badge&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-6A0DAD?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-9B30FF?style=for-the-badge&logo=duckdb&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-7B2FBE?style=for-the-badge&logo=plotly&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-8A2BE2?style=for-the-badge&logo=flask&logoColor=white)
 
 **Visualização & BI**
 
