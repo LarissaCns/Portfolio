@@ -64,6 +64,8 @@ Projeto focado na aplicação prática de NumPy para análise de dados de frutas
 
 ---
 
+</br>
+</br>
 
 ## 🛠️ Ferramentas & Tecnologias
 
