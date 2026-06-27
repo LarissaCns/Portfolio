@@ -29,14 +29,6 @@ Estudante de **Ciência da Computação** se aventurando no universo dos dados. 
 
 > *EDA detalhada sobre dados clínicos para identificar padrões demográficos e médicos associados ao risco de ataques cardíacos — com foco em proporções, correlações estatísticas e vieses de amostra.*
 
-Após limpeza e padronização dos dados, realizei análise bivariada cruzando sintomas e exames com o diagnóstico de risco, além de matriz de correlação com heatmap para investigar relações entre sinais vitais.
-
-**💡 Insights:**
-- 🃏 **O paradoxo da dor no peito:** a angina *típica* apresentou menor proporção de risco do que a atípica.
-- 📊 **Viés de seleção etário:** pacientes jovens têm maior percentual relativo de risco porque só fazem exames complexos quando os sintomas já são graves.
-- 💓 **A matemática dos sinais vitais:** correlação negativa (-0.40) confirmada entre idade e frequência cardíaca máxima — exatamente o que a biologia prevê.
-- 🧪 **Colesterol vs. mito:** correlação praticamente nula (-0.09) entre colesterol sérico e risco de infarto. Isoladamente, ele não prediz nada nesta amostra.
-
 ![Python](https://img.shields.io/badge/Python-7B2FBE?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-9B30FF?style=flat-square&logo=numpy&logoColor=white)
