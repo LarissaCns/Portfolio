@@ -56,11 +56,13 @@ Projeto focado na aplicação prática de NumPy para análise de dados de frutas
 ### 🔌 [Pipeline de Dados & API RESTful](https://github.com/LarissaCns/Pipeline-de-Dados-API-RESTful)
  
 > *Projeto de desafio técnico com duas frentes: um pipeline ETL completo que processa CSVs e gera comandos SQL, e uma API RESTful com Flask para consulta dos dados em tempo real.*
+</br>
 
 ![Python](https://img.shields.io/badge/Python-7B2FBE?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=flat-square&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-6A0DAD?style=flat-square&logo=flask&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-9B30FF?style=flat-square&logo=postgresql&logoColor=white)
+</br>
 
 ---
 
