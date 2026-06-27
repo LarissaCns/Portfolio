@@ -21,7 +21,7 @@ Estudante de **Ciência da Computação** se aventurando no universo dos dados. 
 
 ---
 
-## 🚀 Projetos
+## Projetos Pessoais
 
 <img src="projeto_1.png" alt="Heatmap de correlação" width="300" align="left"/>
 
