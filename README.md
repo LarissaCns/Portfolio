@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 👩‍💻 Larissa Cristina Nunes da Silva
 
@@ -87,9 +87,3 @@ Descreva aqui o que o projeto faz, qual problema resolve e quais técnicas você
 
 ---
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
-[![Gmail](https://img.shields.io/badge/Gmail-9B30FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
-
-</div>
