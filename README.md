@@ -24,14 +24,14 @@ Estudante de **Ciência da Computação** se aventurando no universo dos dados. 
 ## 🚀 Projetos
 
 ### 🫀 [Análise Exploratória: Fatores de Risco para Ataques Cardíacos](https://github.com/LarissaCns/Analise-Ataque-Cardiaco) · [▶ Notebook no Kaggle](https://www.kaggle.com/code/laregou/an-lise-de-ataques-card-acos)
-<img src="projeto_1.png" alt="Heatmap de correlação" width="400" align="left"/>
+<img src="projeto_1.png" alt="Heatmap de correlação" width="300" align="left"/>
 
 > *EDA detalhada sobre dados clínicos para identificar padrões demográficos e médicos associados ao risco de ataques cardíacos — com foco em proporções, correlações estatísticas e vieses de amostra.*
 
 Esse projeto foi além das contagens óbvias: após limpeza e padronização dos dados, realizei análise bivariada cruzando sintomas e exames com o diagnóstico de risco, além de matriz de correlação com heatmap para investigar relações entre sinais vitais.
 
-**💡 Insights que me surpreenderam:**
-- 🃏 **O paradoxo da dor no peito:** a angina *típica* apresentou menor proporção de risco do que a atípica — os dados desafiam a intuição clínica!
+**💡 Insights:**
+- 🃏 **O paradoxo da dor no peito:** a angina *típica* apresentou menor proporção de risco do que a atípica.
 - 📊 **Viés de seleção etário:** pacientes jovens têm maior percentual relativo de risco porque só fazem exames complexos quando os sintomas já são graves.
 - 💓 **A matemática dos sinais vitais:** correlação negativa (-0.40) confirmada entre idade e frequência cardíaca máxima — exatamente o que a biologia prevê.
 - 🧪 **Colesterol vs. mito:** correlação praticamente nula (-0.09) entre colesterol sérico e risco de infarto. Isoladamente, ele não prediz nada nesta amostra.
