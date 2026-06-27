@@ -74,6 +74,7 @@ Projeto focado na aplicação prática de NumPy para análise de dados de frutas
 > *Análise do comportamento de compras do e-commerce brasileiro (Olist) cruzada com dados demográficos do IBGE.*
  
 O projeto responde perguntas de negócio reais: onde estão concentrados os clientes atuais, quais são os gargalos de qualidade nos dados de localização e — o mais estratégico — quais cidades e regiões do Brasil representam as maiores oportunidades ainda inexploradas.
+
 ![Python](https://img.shields.io/badge/Python-7B2FBE?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=flat-square&logo=pandas&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-6A0DAD?style=flat-square&logo=duckdb&logoColor=white)
