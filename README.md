@@ -6,10 +6,10 @@
 
 *Transformando dados em histórias — com Python e café* ☕🔍
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/larissacn-silva)
 [![GitHub](https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LarissaCns)
 [![Kaggle](https://img.shields.io/badge/Kaggle-7B2FBE?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/laregou)
-[![Gmail](https://img.shields.io/badge/Gmail-9B30FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
+[![Outlook](https://img.shields.io/badge/Outlook-9B30FF?style=for-the-badge&logo=outlook&logoColor=white)](mailto:larissacristina.nunes@outlook.com)
 
 </div>
 
@@ -82,7 +82,7 @@ Descreva aqui o que o projeto faz, qual problema resolve e quais técnicas você
 | 🎓 | Curso | Instituição | Status |
 |---|---|---|---|
 | 💻 | Bacharelado em Ciência da Computação | Faculdade Descomplica | 2024–2027 · em andamento |
-| 📈 | Google Analytics | Google | em andamento |
+| 📈 | Google Analytics | Coursera | em andamento |
 | 📊 | Estatística para Data Science e Machine Learning | Udemy | em andamento |
 
 ---
