@@ -2,7 +2,7 @@
 
 # 👩‍💻 Larissa Cristina Nunes da Silva
 
-### `Data Science` · `Análise de Dados` · `Curiosidade > Respostas`
+### `Data Science` · `Análise de Dados` · 
 
 *Transformando dados em histórias — com Python e café* ☕🔍
 
