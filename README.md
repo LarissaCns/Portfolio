@@ -67,7 +67,7 @@ Projeto focado na aplicação prática de NumPy para análise de dados de frutas
 
 ---
 
-<img src="dataset-cover.png" alt="Grafico de Regressão" width="300" align="left"/>
+<img src="projeto_4.png" alt="Grafico de Regressão" width="300" align="left"/>
 
 ### 🛒 [Análise Estratégica de Expansão e Vendas — Olist](https://github.com/LarissaCns/Analise-Olist-Ecommerce)
  
