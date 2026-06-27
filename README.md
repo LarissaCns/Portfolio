@@ -24,6 +24,7 @@ Estudante de **Ciência da Computação** se aventurando no universo dos dados. 
 ## 🚀 Projetos
 
 <img src="projeto_1.png" alt="Heatmap de correlação" width="300" align="left"/>
+
 ### 🫀 [Análise Exploratória: Fatores de Risco para Ataques Cardíacos](https://github.com/LarissaCns/Analise-Ataque-Cardiaco) · [▶ Notebook no Kaggle](https://www.kaggle.com/code/laregou/an-lise-de-ataques-card-acos)
 
 > *EDA detalhada sobre dados clínicos para identificar padrões demográficos e médicos associados ao risco de ataques cardíacos — com foco em proporções, correlações estatísticas e vieses de amostra.*
