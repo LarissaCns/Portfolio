@@ -77,12 +77,14 @@ O projeto responde perguntas de negócio reais: onde estão concentrados os clie
 </br>
 
 <div align="right"/>
+ 
 ![Python](https://img.shields.io/badge/Python-7B2FBE?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-8A2BE2?style=flat-square&logo=pandas&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-6A0DAD?style=flat-square&logo=duckdb&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-9B30FF?style=flat-square&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-7B2FBE?style=flat-square&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-8A2BE2?style=flat-square&logo=plotly&logoColor=white)
+
 </div>
  
 ---
